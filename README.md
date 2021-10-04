@@ -1,3 +1,3 @@
 # Neumorphism Calc
 
-This calc was made in Vue (with Vite), with a Neumorphism style.
+This calculator was made in Vue (with Vite), with a Neumorphism style.
